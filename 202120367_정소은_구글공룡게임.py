@@ -1,4 +1,4 @@
-#수정 파일_구글 공룡게임
+#구글 공룡게임 - 이미지 파일 필요(압축파일 존재)
 import pygame
 import random
 import time
